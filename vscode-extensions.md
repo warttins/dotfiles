@@ -1,23 +1,16 @@
-### Themes
-Dracula PRO
-Dracula Official
-Night Owl
-GitHub Theme
-Rosé Pine
-
-### Extensions
-Auto Rename Tag
-Code Runner
-Docker
-DotENV
-ESLint
-Fluent Icons
-GitLens — Git supercharged
-Live Server
-Material Icon Theme
-Prettify JSON
-Pretty TypeScript Errors
-Snipped
-Turbo Console Log
-VSCode Styled Components
-WSL
+## Extensions
+[Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)  
+[Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)  
+[Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)  
+[DotENV](https://marketplace.visualstudio.com/items?itemName=dotenv.dotenv-vscode)  
+[ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)  
+[Fluent Icons](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons)  
+[GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)  
+[Live Server](https://marketplace.visualstudio.com/items?itemName=yandeu.five-server)  
+[Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)  
+[Prettify JSON](https://marketplace.visualstudio.com/items?itemName=mohsen1.prettify-json)  
+[Pretty TypeScript Errors](https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors)  
+[Snipped](https://marketplace.visualstudio.com/items?itemName=JeffersonLicet.snipped)  
+[Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log)  
+[VSCode Styled Components](https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components)  
+[WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)  
