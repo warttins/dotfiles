@@ -1,0 +1,116 @@
+{
+  // Workbench
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.editor.labelFormat": "short",
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.editor.untitled.hint": "hidden",
+  "workbench.productIconTheme": "fluent-icons",
+  "workbench.tree.indent": 12,
+
+  // Editor settings
+  "editor.fontFamily": "JetBrains Mono, Fira Code",
+  "editor.fontSize": 14,
+  "editor.lineHeight": 20,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "bounded",
+  "editor.wordWrapColumn": 100,
+  "editor.fontLigatures": false,
+  "editor.renderLineHighlight": "gutter",
+  "editor.rulers": [
+    100
+  ],
+  "editor.padding.top": 10,
+  "editor.parameterHints.enabled": false,
+  "editor.semanticHighlighting.enabled": true,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "editor.tokenColorCustomizations": {
+        "textMateRules": [
+          {
+            "scope": [
+              //following will be in italic
+              // "comment"
+              // "entity.name.type.class", //class names
+              // "constant", //String, Number, Boolean…, this, super
+              // "storage.modifier", //static keyword
+              // "storage.type.class.js", //class keyword
+              // "keyword" //import, export, return…
+            ],
+            "settings": {
+              "fontStyle": "italic"
+            }
+          }
+        ]
+      },
+
+  // Terminal settings
+  "terminal.integrated.fontFamily": "MesloLGS NF",
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.lineHeight": 1.2,
+  "terminal.integrated.defaultProfile.linux": "zsh",
+  "terminal.integrated.persistentSessionReviveProcess": "never",
+
+  // VSCode stuff
+  "breadcrumbs.enabled": true,
+  "explorer.compactFolders": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "typescript.updateImportsOnFileMove.enabled": "never",
+
+  // Emmet
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+
+  // Material Icon stuff
+  "material-icon-theme.folders.associations": {
+    "domain": "core",
+    "infra": "app",
+    "main": "public",
+    "presentation": "connection",
+    "cryptography": "secure",
+    "entities": "class",
+    "repositories": "mappings",
+    "protocols": "resource",
+    "useCases": "components",
+    "subcomponents": "components",
+    "adapters": "connection",
+    "factories": "container",
+    "globals": "global",
+    "ui": "views"
+  },
+  "material-icon-theme.hidesExplorerArrows": true,
+  "material-icon-theme.files.associations": {
+    "ormconfig.json": "database",
+    "tsconfig.json": "tune",
+    ".lintstagedrc.json": "tune"
+  },
+
+  // Evondev settings
+  // "workbench.colorCustomizations": {
+    //     "[Evondev Dracula Darker Contrast]": {
+    //       "activityBar.background": "#0d0e16",
+    //       "activityBar.border": "#141522",
+    //       "sideBar.background": "#0d0e16",
+    //       "sideBarSectionHeader.background": "#0d0e16",
+    //       "sideBarSectionHeader.border": "#141522"
+    //     }
+    //   },
+
+  // Other extensions
+  "extensions.ignoreRecommendations": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "gitlens.defaultDateFormat": null,
+  "gitlens.hovers.currentLine.over": "line",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "git.confirmSync": false,
+  "editor.inlineSuggest.enabled": true,
+  "code-runner.clearPreviousOutput": true,
+}
